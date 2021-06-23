@@ -50,7 +50,7 @@
   },
   "main": "./src/background.js",
   "dependencies": {
-    "debug": "^4.3.1",
+    "debug": "^4.3.2",
     "electron-window-state": "^5.0.3"
   },
   "devDependencies": {
